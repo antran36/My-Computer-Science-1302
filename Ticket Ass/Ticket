@@ -1,0 +1,9 @@
+public class Ticket
+{
+	int number;
+
+	public Ticket(int number)
+	{
+		this.number = number;
+	}
+}
